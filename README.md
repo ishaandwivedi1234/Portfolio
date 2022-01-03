@@ -4,7 +4,7 @@
 
 > Hi! I am <a href=""> Ishaan Dwivedi</a> a full stack developer & a learner
 
-##  Tech Stack Used
+##  Mobile Applications Using
 
 <div><img src="https://img.icons8.com/fluency/96/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/96/000000/firebase.png"/>
@@ -61,3 +61,21 @@
 <img src="https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/screens/darkMenu.png" height="500px"/>
 
 </div>
+
+##  Web Applications Using
+
+<div>
+ img src="https://img.icons8.com/ios/50/000000/django.png"/>
+<img src="https://img.icons8.com/color/96/000000/mongodb.png"/>
+ <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/96/000000/adobe-xd--v2.png"/></div>
+
+ # 1. Cardfy (<a href="https://cardfy-web.herokuapp.com">See Live</a>)
+ 
+ <div>
+<img src = "https://github.com/lucifer0987/Cardfy/raw/main/assets/10.png" height="500px">
+<img src = "https://github.com/lucifer0987/Cardfy/raw/main/assets/9.png" height="500px">
+<img src = "https://github.com/lucifer0987/Cardfy/raw/main/assets/8.png" height="500px">
+<img src = "https://github.com/lucifer0987/Cardfy/raw/main/assets/7.png" height="500px">
+
+  </div>
