@@ -46,7 +46,7 @@
 <img src = "https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/other%20Projects/d8.png" height="500px">
 </div>
 
- # 3. A simple Note taking app(<a href="">IN PROGRESS</a>)
+ # 3. A simple Note taking app(<a href="">Download</a>)
  
 <div>
 <img src="https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/screens/splash.png" height="500px"/>
