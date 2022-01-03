@@ -2,7 +2,7 @@
 ![](https://media0.giphy.com/media/flbcUFdLSHwZC03p11/giphy.gif?cid=ecf05e473n1rpg8u098c485j8fopib9bql7m5qbv13er8nw9&rid=giphy.gif&ct=g)
 ## 🤔 About Me 🤔
 
-> Hi! I am <a href=""> Ishaan Dwivedi</a> a full stack developer & a learner
+> Hi! I am <a href="https://www.linkedin.com/in/ishaandwivedi/"> Ishaan Dwivedi</a> a full stack developer & a learner
 
 ##  Mobile Applications Using
 
